@@ -1,0 +1,17 @@
+# Dados
+mobility_data/
+maps/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+
+# Ambiente virtual
+venv/
+.env
+
+#MacOS
+.DS_Store
